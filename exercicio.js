@@ -1,3 +1,5 @@
+function exercicio01(){
+
 let salario =200;
 let reajustes =0;
 
@@ -32,5 +34,6 @@ else if(salario<=1500 ){
 
 }
 
-
+}
+module.exports = exercicio01;
 

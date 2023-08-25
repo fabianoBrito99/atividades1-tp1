@@ -1,3 +1,4 @@
+function exercicio04(){
 let alcool=10;
 let gasolina=21;
 let desc=0;
@@ -29,3 +30,5 @@ else
     desc=0.05
     console.log(alcool+" litros de alcool o valor final é R$ "+desconto(gasolina, desc))
 }
+}
+module.exports = exercicio04;

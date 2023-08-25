@@ -1,3 +1,4 @@
+function exercicio03(){
 let diaSemana =7;
 
 if(diaSemana==1)
@@ -32,3 +33,6 @@ else{
 
     console.log("dia inexistente")
 }
+}
+
+module.exports = exercicio03;

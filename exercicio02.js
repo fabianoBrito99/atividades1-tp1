@@ -1,3 +1,4 @@
+function exercicio02(){
 let salario =2600;
 let porcentagem=0;
 let desc =0;
@@ -80,3 +81,5 @@ if(salario>=2500){
     console.log("Total de Descontos R$ "+ descontosTotais);
     console.log("Salario Liquido R$ "+ salarioLiquido)
 }
+}
+module.exports = exercicio02;
