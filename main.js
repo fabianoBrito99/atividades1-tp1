@@ -10,18 +10,18 @@ const exercicio05 =require('./exercicios05.js');
 
 
 
-console.log('\n exercicio 01, reposta:')
+console.log('\n exercicio 01, Reposta:')
 exercicio();
 
-console.log('\n exercicio 02, reposta:')
+console.log('\n exercicio 02, Reposta:')
 exercicio02();
 
 
-console.log('\n exercicio 03, reposta:')
+console.log('\n exercicio 03, Reposta:')
 exercicio03();
 
-console.log('\n exercicio 04, reposta:')
+console.log('\n exercicio 04, Reposta:')
 exercicio04();
 
-console.log('\n exercicio 05, reposta:')
+console.log('\n exercicio 05, Reposta:')
 exercicio05();
